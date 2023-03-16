@@ -19,5 +19,5 @@ git clone https://github.com/bird-exchange/worker.git
 ```
 Chekpoints arxiv from <a href="https://disk.yandex.ru/d/0_wNLkkyLIRdJA">here</a> should be saved in \worker\worker\handler\checkpoints\.
 
-## Start up
+## Start app
 Follow the instructions of each part. Run in the following order: backend, worker, frontend.
