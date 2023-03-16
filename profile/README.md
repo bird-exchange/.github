@@ -17,6 +17,7 @@ git clone https://github.com/bird-exchange/backend.git
 git clone https://github.com/bird-exchange/frontend.git
 git clone https://github.com/bird-exchange/worker.git
 ```
-Checpoints arxiv from <a href="https://disk.yandex.ru/d/0_wNLkkyLIRdJA">here</a> need to be saved in \worker\worker\handler\checkpoints\.
+Chekpoints arxiv from <a href="https://disk.yandex.ru/d/0_wNLkkyLIRdJA">here</a> should be saved in \worker\worker\handler\checkpoints\.
 
-### Start up
+## Start up
+Follow the instructions of each part. Run in the following order: backend, worker, frontend.
