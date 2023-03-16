@@ -5,11 +5,11 @@ The neural network used is taken from <a href="https://github.com/vladimirprotse
 Flask, Minio, PostgreSQL
 
 <kbd>
-<img src="background.png"> 
+<img src="profile/background.png"> 
 </kbd>
 
 <kbd>
-<img src="example.png">
+<img src="profile/example.png">
 </kbd>
 
 
