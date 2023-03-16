@@ -6,7 +6,7 @@ home page|main page
 ![Alt-текст](https://github.com/bird-exchange/.github/blob/main/profile/background.png?raw=true) | ![Alt-текст](https://github.com/bird-exchange/.github/blob/main/profile/example.png?raw=true)
 
 ## Technical stack
-Flask, Minio, PostgreSQL
+Flask, Minio, PostgreSQL, Bootstrap
 
 ## Project structure
 
